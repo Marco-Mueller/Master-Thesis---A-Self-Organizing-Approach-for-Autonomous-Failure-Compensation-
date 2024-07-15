@@ -1,6 +1,6 @@
 # Master Thesis - A Self-Organizing Approach for Autonomous Failure Compensation in Flying Multi-Robot-Ensembles
+Marco Müller, July 2024
 
-Demonstrating failure compensation mechanisms during a fire suppression mission:
 
 # Experimental validation of demo scenarios
 
