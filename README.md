@@ -13,7 +13,7 @@ Marco Müller, July 2024
 ## Video 4) Capability failures 
 //TODO: Link
 
-# Validation for the case study scenario
+# Validation of the case study scenario
 
 ## Video 5) Regular execution of the fire suppression mission
 //TODO: Link
